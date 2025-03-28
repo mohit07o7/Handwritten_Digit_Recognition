@@ -55,8 +55,8 @@ python recognition.py model.h5
 ```
 ### **Usage Instructions**
 - **Draw a digit** using the mouse.
-- **Press 'P'** to predict the digit.
-- **Press 'C'** to clear the screen.
+- **Press 'Classify'** to predict the digit.
+- **Press 'Reset'** to clear the screen.
 - **Close the window** to exit the program.
 
 
